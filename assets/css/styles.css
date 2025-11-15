@@ -1,0 +1,25 @@
+body {
+    min-height: 100vh;
+}
+
+.card {
+    box-shadow: 0 0.35rem 0.7rem rgba(0, 0, 0, 0.08);
+}
+
+.table-responsive {
+    max-height: 520px;
+}
+
+.form-floating > label {
+    color: #6c757d;
+}
+
+.module-title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.module-title .btn-group {
+    gap: 0.5rem;
+}
